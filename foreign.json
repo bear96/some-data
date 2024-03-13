@@ -1,0 +1,38 @@
+[
+  {
+    "Country": "Trade",
+    "text": "Trump withdrew from TPP negotiations, imposed tariffs on steel/aluminum imports, initiated a trade war with China, and renegotiated NAFTA into USMCA, although the trade deficit remained high, particularly during the COVID-19 pandemic."
+  },
+  {
+    "Country": "Russia",
+    "text": "Trump eased penalties on Russia post-Crimea annexation, withdrew from the INF Treaty, and faced criticism for his amicable stance towards Putin, especially regarding Russian interference in the 2016 election."
+  },
+  {
+    "Country": "China",
+    "text": "Trump aggressively confronted China over trade imbalances, initiating a trade war and imposing sanctions on Chinese companies like Huawei. However, his approach oscillated between harsh criticism and occasional praise, particularly regarding President Xi Jinping and China's COVID-19 response."
+  },
+  {
+    "Country": "North Korea",
+    "text": "Trump engaged in unprecedented diplomacy with Kim Jong Un, holding historic summits but ultimately failing to achieve denuclearization. Despite personal rapport, tensions remained high, with North Korea continuing its weapons development."
+  },
+  {
+    "Country": "Afghanistan",
+    "text": "Trump initially increased troop levels but later signed a conditional peace agreement with the Taliban, leading to troop reductions despite ongoing attacks. The situation remained fragile, with uncertainties about the Taliban's commitment to peace."
+  },
+  {
+    "Country": "Israel",
+    "text": "Under Trump, the US made controversial moves like recognizing Jerusalem as Israel's capital and supporting Israel's sovereignty over the Golan Heights. However, the administration also brokered normalization deals between Israel and some Arab states through the Abraham Accords."
+  },
+  {
+    "Country": "Saudi Arabia",
+    "text": "Trump supported Saudi actions in Yemen, signed lucrative arms deals, and deployed troops in response to regional tensions with Iran, despite criticisms of human rights abuses and civilian casualties in Yemen."
+  },
+  {
+    "Country": "Syria",
+    "text": "Trump ordered strikes against Assad regime for chemical attacks, declared victory over ISIS, and controversially withdrew troops, abandoning Kurdish allies and leaving a power vacuum in the region."
+  },
+  {
+    "Country": "Iran",
+    "text": "Trump's administration took a hardline stance against Iran, withdrawing from the JCPOA and imposing maximum pressure sanctions. Tensions escalated, culminating in the killing of Soleimani and subsequent Iranian retaliation, further destabilizing the region. Despite efforts, Trump's attempts to reinstate UN sanctions on Iran faced international resistance."
+  }
+]

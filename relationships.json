@@ -1,0 +1,231 @@
+[
+  {
+    "name": "Fred Trump",
+    "closeness": 0.9,
+    "relationship": [
+      {"type": "familial", "description": "father"},
+      {"type": "business", "description": "business relationship"}
+    ]
+  },
+  {
+    "name": "Melania Trump",
+    "closeness": 1,
+    "relationship": [
+      {"type": "romantic", "description": "wife"},
+      {"type": "marital", "description": "marriage relationship"}
+    ]
+  },
+  {
+    "name": "Ivanka Trump",
+    "closeness": 0.95,
+    "relationship": [
+      {"type": "familial", "description": "daughter"}
+    ]
+  },
+  {
+    "name": "Donald Trump Jr.",
+    "closeness": 0.95,
+    "relationship": [
+      {"type": "familial", "description": "son"}
+    ]
+  },
+  {
+    "name": "Eric Trump",
+    "closeness": 0.95,
+    "relationship": [
+      {"type": "familial", "description": "son"}
+    ]
+  },
+  {
+    "name": "Republican Party",
+    "closeness": 0.8,
+    "relationship": [
+      {"type": "political", "description": "affiliation"}
+    ]
+  },
+  {
+    "name": "Democratic Party",
+    "closeness": 0.2,
+    "relationship": [
+      {"type": "political", "description": "opposition"},
+      {"type": "political", "description": "enemy"}
+    ]
+  },
+  {
+    "name": "Hillary Clinton",
+    "closeness": 0.1,
+    "relationship": [
+      {"type": "political", "description": "opponent"}
+    ]
+  },
+  {
+    "name": "Joe Biden",
+    "closeness": 0.1,
+    "relationship": [
+      {"type": "political", "description": "opponent"}
+    ]
+  },
+  {
+    "name": "Neil Gorsuch",
+    "closeness": 0.7,
+    "relationship": [
+      {"type": "professional", "description": "Supreme Court appointee"}
+    ]
+  },
+  {
+    "name": "Brett Kavanaugh",
+    "closeness": 0.7,
+    "relationship": [
+      {"type": "professional", "description": "Supreme Court appointee"}
+    ]
+  },
+  {
+    "name": "Amy Coney Barrett",
+    "closeness": 0.7,
+    "relationship": [
+      {"type": "professional", "description": "Supreme Court appointee"}
+    ]
+  },
+  {
+    "name": "Kim Jong Un",
+    "closeness": 0.5,
+    "relationship": [
+      {"type": "political", "description": "diplomatic"}
+    ]
+  },
+  {
+    "name": "E. Jean Carroll",
+    "closeness": 0.2,
+    "relationship": [
+      {"type": "legal", "description": "accuser"}
+    ]
+  },
+  {
+    "name": "New York state court",
+    "closeness": 0.6,
+    "relationship": [
+      {"type": "legal", "description": "plaintiff"}
+    ]
+  },
+  {
+    "name": "Civil trial jury",
+    "closeness": 0.7,
+    "relationship": [
+      {"type": "legal", "description": "judgment"}
+    ]
+  },
+  {
+    "name": "Florida prosecutors",
+    "closeness": 0.6,
+    "relationship": [
+      {"type": "legal", "description": "plaintiff"}
+    ]
+  },
+  {
+    "name": "Washington, D.C. prosecutors",
+    "closeness": 0.6,
+    "relationship": [
+      {"type": "legal", "description": "plaintiff"}
+    ]
+  },
+  {
+    "name": "Georgia prosecutors",
+    "closeness": 0.6,
+    "relationship": [
+      {"type": "legal", "description": "plaintiff"}
+    ]
+  },
+  {
+    "name": "Mary Anne MacLeod Trump",
+    "closeness": 0.9,
+    "relationship": [
+      {"type": "familial", "description": "mother"}
+    ]
+  },
+  {
+    "name": "Maryanne Trump",
+    "closeness": 0.8,
+    "relationship": [
+      {"type": "familial", "description": "older sister"}
+    ]
+  },
+  {
+    "name": "Fred Trump Jr.",
+    "closeness": 0.8,
+    "relationship": [
+      {"type": "familial", "description": "older brother"}
+    ]
+  },
+  {
+    "name": "Elizabeth Trump",
+    "closeness": 0.8,
+    "relationship": [
+      {"type": "familial", "description": "older sister"}
+    ]
+  },
+  {
+    "name": "Robert Trump",
+    "closeness": 0.8,
+    "relationship": [
+      {"type": "familial", "description": "younger brother"}
+    ]
+  },
+  {
+    "name": "Kew-Forest School",
+    "closeness": 0.7,
+    "relationship": [
+      {"type": "educational", "description": "elementary school attended"}
+    ]
+  },
+  {
+    "name": "New York Military Academy",
+    "closeness": 0.7,
+    "relationship": [
+      {"type": "educational", "description": "high school attended"}
+    ]
+  },
+  {
+    "name": "Fordham University",
+    "closeness": 0.7,
+    "relationship": [
+      {"type": "educational", "description": "university attended"}
+    ]
+  },
+  {
+    "name": "Wharton School of the University of Pennsylvania",
+    "closeness": 0.9,
+    "relationship": [
+      {"type": "educational", "description": "university attended"}
+    ]
+  },
+  {
+    "name": "Michael Cohen",
+    "closeness": 0.6,
+    "relationship": [
+      {"type": "legal", "description": "Trump's lawyer"}
+    ]
+  },
+  {
+    "name": "Ivana Zelníčková",
+    "closeness": 0.6,
+    "relationship": [
+      {"type": "romantic", "description": "first wife"},
+      {"type": "familial", "description": "mother of his three children"}
+    ]
+  },
+  {
+    "name": "Marla Maples",
+    "closeness": 0.2,
+    "relationship": [
+      {"type": "romantic", "description": "second wife"},
+      {"type": "marital", "description": "marriage"}
+    ]
+  },
+  {
+    "name": "Barron Trump",
+    "closeness": 1,
+    "relationship": [
+      {"type": "familial", "description": "son"}
+    ]
+  }
+]
